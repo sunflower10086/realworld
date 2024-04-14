@@ -1,9 +1,9 @@
 package server
 
 import (
-	v1 "helloworld/api/realworld/v1"
-	"helloworld/internal/conf"
-	"helloworld/internal/service"
+	v1 "realworld/api/realworld/v1"
+	"realworld/internal/conf"
+	"realworld/internal/service"
 
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/middleware/recovery"
